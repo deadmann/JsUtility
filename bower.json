@@ -1,0 +1,28 @@
+{
+  "name": "js-utility",
+  "description": "A sets of utility for javascript and frameworks that depend on javascripts",
+  "main": "index.ts",
+  "dependencies": {
+    "angular-block-ui": "^0.2.2"
+  },
+  "authors": [
+    "Hassan Faghihi"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "js",
+    "javascript",
+    "utility",
+    "util",
+    "angularjs",
+    "typescript"
+  ],
+  "homepage": "https://github.com/deadmann/JsUtility",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

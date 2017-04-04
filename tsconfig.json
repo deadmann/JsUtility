@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    //"lib": ["dom", "es6"],
+    //"typeRoots": [],
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules",
+    "bower_components",
+    "typings",
+    "dist"
+  ],
+  "compileOnSave": true
+}

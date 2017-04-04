@@ -1,0 +1,37 @@
+{
+  "name": "js-utility",
+  "version": "1.0.0",
+  "description": "A sets of utility for javascript and frameworks that depend on javascripts",
+  "main": "index.ts",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-animate": "^1.5.8",
+    "angular-resource": "^1.5.8",
+    "angular-route": "^1.5.8",
+    "angularjs": "^0.0.1",
+    "angularjs-toaster": "^2.1.0",
+    "jquery": "^3.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deadmann/JsUtility.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "utility",
+    "util",
+    "angularjs",
+    "typescript"
+  ],
+  "author": "Hassan Faghihi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deadmann/JsUtility/issues"
+  },
+  "homepage": "https://github.com/deadmann/JsUtility#readme"
+}

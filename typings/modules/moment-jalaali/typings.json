@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/e1b64bbf24fed6d801c9f56e8a041794c4417eca/moment-jalaali/index.d.ts",
+    "raw": "registry:dt/moment-jalaali#0.5.0+20160924095120",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/e1b64bbf24fed6d801c9f56e8a041794c4417eca/moment-jalaali/index.d.ts"
+  }
+}
