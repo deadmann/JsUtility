@@ -1,9 +1,6 @@
+///<reference path="../outerReferences.d.ts"/>
 /**
  * Created by Hassan on 2/7/2017.
- */
-///<reference path="../outerReferences.ts"/>
-/**
- * Created by Hassan on 1/1/2017.
  */
 var AngularUtility;
 (function (AngularUtility) {

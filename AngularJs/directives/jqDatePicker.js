@@ -1,5 +1,5 @@
-///<reference path="../innerReferences.ts"/>
-///<reference path="../outerReferences.ts"/>
+///<reference path="../index.d.ts"/>
+///<reference path="../outerReferences.d.ts"/>
 /**
  * Created by Hassan on 12/6/2016.
  */

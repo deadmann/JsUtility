@@ -2,7 +2,7 @@
   "name": "js-utility",
   "version": "1.0.0",
   "description": "A sets of utility for javascript and frameworks that depend on javascripts",
-  "main": "index.ts",
+  "main": "index.d.ts",
   "dependencies": {
     "angular": "^1.5.8",
     "angular-animate": "^1.5.8",

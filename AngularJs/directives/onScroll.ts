@@ -1,4 +1,4 @@
-///<reference path="../outerReferences.ts"/>
+///<reference path="../outerReferences.d.ts"/>
 
 /**
  * Created by Hassan on 1/1/2017.
